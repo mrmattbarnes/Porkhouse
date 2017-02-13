@@ -1,0 +1,328 @@
+newmtl boxing_ring_ropesSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd boxing ring.jpg
+Ni 1.00
+newmtl boxing_ring_ropesSG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd boxing ring ropes.tga
+Ni 1.00
+newmtl pCube152SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd wall papers.jpg
+Ni 1.00
+newmtl pCube155SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd dude texture.jpg
+Ni 1.00
+newmtl pCube157SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd pig texture.jpg
+Ni 1.00
+newmtl pCube179SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd pig2.jpg
+Ni 1.00
+newmtl pCylinder107SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd trophy_texture.jpg
+Ni 1.00
+newmtl pCylinder112SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd boiler_huge.jpg
+Ni 1.00
+newmtl pCylinder113SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd boiler top.jpg
+Ni 1.00
+newmtl polySurface1272SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd top stairs.jpg
+Ni 1.00
+newmtl polySurface1287SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd elevator and billboard.jpg
+Ni 1.00
+newmtl polySurface1292SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd death elevator.jpg
+Ni 1.00
+newmtl polySurface1296SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd gear box.jpg
+Ni 1.00
+newmtl polySurface1341SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd railimg.jpg
+Ni 1.00
+newmtl polySurface1395SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd pipes textures.jpg
+Ni 1.00
+newmtl polySurface1398SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd sign main textures.jpg
+Ni 1.00
+newmtl polySurface1402SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd kitchen frame.jpg
+Ni 1.00
+newmtl polySurface1404SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd becca-hallstedt-mossyrock.jpg
+Ni 1.00
+newmtl polySurface1405SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd kitchen wall.jpg
+Ni 1.00
+newmtl polySurface1412SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd top grill chute.jpg
+Ni 1.00
+newmtl polySurface1413SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd bottom grill chute.jpg
+Ni 1.00
+newmtl polySurface1417SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd inside wall.jpg
+Ni 1.00
+newmtl polySurface1418SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd inner walls.jpg
+Ni 1.00
+newmtl polySurface1437SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd trim large.jpg
+Ni 1.00
+newmtl polySurface1440SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd bathroom walls.jpg
+Ni 1.00
+newmtl polySurface1445SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd top floor trim.jpg
+Ni 1.00
+newmtl polySurface1447SG
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl polySurface1448SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd concrete tile_tiled.jpg
+Ni 1.00
+newmtl polySurface1449SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Bathtub.jpg
+Ni 1.00
+newmtl polySurface1450SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 0.63 0.63 0.63
+map_Kd water.jpg
+Ni 1.00
+newmtl polySurface1454SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd curtain and tub.jpg
+Ni 1.00
+newmtl polySurface1456SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd kitchen prep table.jpg
+Ni 1.00
+newmtl polySurface1457SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd kitchen table.jpg
+Ni 1.00
+newmtl polySurface1465SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd stairs trim.jpg
+Ni 1.00
+newmtl polySurface1470SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd bathroom objects.jpg
+Ni 1.00
+newmtl polySurface1473SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd bathroom floor.jpg
+Ni 1.00
+newmtl polySurface1475SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Workout floor tile_tiled.jpg
+Ni 1.00
+newmtl polySurface1478SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd kitchen tile_tiled.jpg
+Ni 1.00
+newmtl polySurface1483SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd side and random trim.jpg
+Ni 1.00
+newmtl polySurface1485SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd gears.jpg
+Ni 1.00
+newmtl polySurface1498SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd workout shit.jpg
+Ni 1.00
+newmtl polySurface1511SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd electric chair.jpg
+Ni 1.00
+newmtl polySurface1521SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd loose props.jpg
+Ni 1.00
+newmtl polySurface1536SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd chute props.jpg
+Ni 1.00
+newmtl polySurface1541SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd noodle machine.jpg
+Ni 1.00
+newmtl polySurface1557SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd dude2.jpg
+Ni 1.00
+newmtl polySurface1578SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd food.jpg
+Ni 1.00
