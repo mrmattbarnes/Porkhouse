@@ -1,0 +1,20 @@
+# This file uses centimeters as units for non-parametric coordinates.
+
+mtllib ceiling bottom.mtl
+g default
+v 6.101623 5.403856 3.442609
+v 6.101623 5.403856 -4.467442
+v -4.279130 5.403856 -4.575210
+v -4.279130 5.403856 3.383096
+vt 0.770470 0.001992
+vt 0.764939 0.966731
+vt 0.025331 0.966731
+vt 0.035346 0.001992
+vn 0.000000 -1.000000 0.000000
+vn 0.000000 -1.000000 0.000000
+vn 0.000000 -1.000000 0.000000
+vn 0.000000 -1.000000 0.000000
+s off
+g polySurface1480 polySurface1411
+usemtl polySurface1447SG
+f 1/1/1 4/2/2 3/3/3 2/4/4
